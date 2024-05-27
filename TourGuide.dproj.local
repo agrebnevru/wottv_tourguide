@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.10.26 11:01:56.498.pas,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Unit1.pas=D:\Programming\delfi_2010\__wottv_TourGuide\UnitMain.pas</Transaction>
+    <Transaction>2010.10.26 11:01:56.498.dfm,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Unit1.dfm=D:\Programming\delfi_2010\__wottv_TourGuide\UnitMain.dfm</Transaction>
+    <Transaction>2010.10.26 11:02:31.544.dproj,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Project1.dproj=D:\Programming\delfi_2010\__wottv_TourGuide\TourGuide.dproj</Transaction>
+    <Transaction>2010.10.26 11:04:06.836.pas,D:\Programming\delfi_2010\__wottv_TourGuide\Unit1.pas=D:\Programming\delfi_2010\__wottv_TourGuide\UnitGonki.pas</Transaction>
+    <Transaction>2010.10.26 11:04:06.836.dfm,D:\Programming\delfi_2010\__wottv_TourGuide\Unit1.dfm=D:\Programming\delfi_2010\__wottv_TourGuide\UnitGonki.dfm</Transaction>
+    <Transaction>2010.11.10 23:18:29.433.pas,D:\Programming\delfi_2010\__wottv_TourGuide\Unit1.pas=D:\Programming\delfi_2010\__wottv_TourGuide\ThreadCheckNewVersion.pas</Transaction>
+  </Transactions>
+</BorlandProject>
